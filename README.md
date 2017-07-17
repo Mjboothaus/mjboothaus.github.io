@@ -1,3 +1,3 @@
 # mjboothaus.github.io
 
-Currently this Git blog pages re-directs to https://mjboothaus.wordpress.com.
+Currently my Git blog page re-directs to https://mjboothaus.wordpress.com.
